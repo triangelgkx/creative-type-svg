@@ -1,0 +1,4 @@
+interface:
+  display_name: "创意字体转 SVG"
+  short_description: "用即梦或 LibTV 生成创意标题并转为 SVG"
+  default_prompt: "使用我的参考图和标题文案，按指定比例与清晰度生成创意字体黑白稿，并在我选定后导出可编辑 SVG。"
